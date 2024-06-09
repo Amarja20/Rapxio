@@ -1,4 +1,5 @@
 # Rapxio UI React 
+https://rapixo.netlify.app/#/
 ![image](https://github.com/Amarja20/Rapxio/assets/147065217/ced6a460-bad0-4db0-9700-274cdc1371d3)
 Welcome to Rapixo, where navigating the vibrant world of rap culture NFTs has never been easier or more enjoyable. Our React-based application is designed with you, the user, in mind, offering a seamless and intuitive experience from start to finish.
 
